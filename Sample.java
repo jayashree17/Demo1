@@ -1,4 +1,9 @@
 
+class Parent{
+  public void prints(){
+   System.out.println("Prints inside Parent");
+  }
+  
 Public class{
   public static void main (String args[]){
     
